@@ -1,4 +1,4 @@
-const bstSort = require("./bst"); // Import the bstSort function
+const bstSort = require("./bst");
 
 describe("BST Sort Function", () => {
     test("Sort an array of lowercase strings", () => {
